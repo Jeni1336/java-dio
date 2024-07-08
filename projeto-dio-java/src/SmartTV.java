@@ -32,6 +32,4 @@ public class SmartTV {
     public void desligar(){
         ligada=false;
     }
-
-
 }
